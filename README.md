@@ -4,7 +4,7 @@ JavaScript Quiz Application
 DESCRIPTION:
 
 A timed coding quiz with multiple-choice questions built from scratch that use JavaScript and APIs.
-Visit the deployed webpage here: //insert deployed link here//
+Visit the deployed webpage here: https://jelysecalkum.github.io/codeName-Quiz/ 
 Or you can check out the project files in my GitHub repository here: https://github.com/JelyseCalkum/codeName-Quiz 
 
 User Story:
@@ -15,6 +15,10 @@ GIVEN I am taking a code quiz. WHEN I click the start button, THEN a timer start
 
 USAGE:
 After reading the JavaScript Quiz Challenge rules, users will click the 'Start Quiz' button and be directed to the first multiple-choice question. Once they have answered all questions, the screen will display their final score and ask them to add their initials for the High Scores leaderboard. At that point, they can either 'Go Back' to the main page, or click 'Clear High Scores.'
+
+
+
+
 
 
 ACKNOWLEDGEMENTS:
