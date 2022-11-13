@@ -1,6 +1,8 @@
 # codeName-Quiz
 JavaScript Quiz Application
+
 DESCRIPTION:
+
 A timed coding quiz with multiple-choice questions built from scratch that use JavaScript and APIs.
 Visit the deployed webpage here: //insert deployed link here//
 Or you can check out the project files in my GitHub repository here: https://github.com/JelyseCalkum/codeName-Quiz 
@@ -16,8 +18,10 @@ After reading the JavaScript Quiz Challenge rules, users will click the 'Start Q
 
 
 ACKNOWLEDGEMENTS:
+
 Thank you to UofO Coding Bootcamp for providing me with the knowledge and tools I needed to complete this project.
 
 
 LICENSE:
+
 MIT License
