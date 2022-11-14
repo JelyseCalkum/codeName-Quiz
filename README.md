@@ -4,7 +4,7 @@ JavaScript Quiz Application
 DESCRIPTION:
 
 A timed coding quiz with multiple-choice questions built from scratch that use JavaScript and APIs.
-Visit the deployed webpage here: https://jelysecalkum.github.io/codeName-Quiz/ 
+You can visit the deployed webpage here: https://jelysecalkum.github.io/codeName-Quiz/ 
 Or you can check out the project files in my GitHub repository here: https://github.com/JelyseCalkum/codeName-Quiz 
 
 User Story:
